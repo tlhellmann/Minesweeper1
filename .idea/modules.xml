@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper1.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper1.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper1.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper1.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper1.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper1.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper1.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper1.util.test.iml" />
+    </modules>
+  </component>
+</project>
